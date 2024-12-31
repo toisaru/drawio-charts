@@ -16,7 +16,7 @@
         <mxCell id="LMEVHzXxAG1LCoHwzfnT-1" value="作業フォルダ" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="50" y="375" width="370" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LMEVHzXxAG1LCoHwzfnT-3" value="リポジトリ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;" vertex="1" parent="1">
+        <mxCell id="LMEVHzXxAG1LCoHwzfnT-3" value="リポジトリ&lt;br&gt;（ローカル）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;" vertex="1" parent="1">
           <mxGeometry x="290" y="430" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LMEVHzXxAG1LCoHwzfnT-7" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ファイル&lt;/span&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
@@ -73,7 +73,7 @@
         <mxCell id="LMEVHzXxAG1LCoHwzfnT-34" value="どこかのサーバ" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="480" y="325" width="150" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="LMEVHzXxAG1LCoHwzfnT-35" value="リポジトリ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="LMEVHzXxAG1LCoHwzfnT-35" value="リポジトリ&lt;div&gt;（リモート）&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="500" y="430" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LMEVHzXxAG1LCoHwzfnT-36" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=default;width=4.838709677419355;startSize=3.7806451612903227;endSize=3.7806451612903227;startWidth=8.126951092611863;endWidth=8.126951092611863;" edge="1" parent="1" source="LMEVHzXxAG1LCoHwzfnT-3" target="LMEVHzXxAG1LCoHwzfnT-35">
